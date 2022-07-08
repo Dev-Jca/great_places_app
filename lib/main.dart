@@ -14,7 +14,7 @@ void main() {
         theme: ThemeData(
           // appBarTheme: const AppBarTheme(foregroundColor: Colors.black87),
           colorScheme: ColorScheme.fromSwatch().copyWith(
-            primary: Colors.teal,
+            primary: Colors.indigo,
             secondary: Colors.amber,
           ),
         ),
